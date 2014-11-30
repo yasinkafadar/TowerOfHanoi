@@ -1,7 +1,7 @@
 The Tower of Hanoi Puzzle 
 ============
 
-This puzlle game created by using AndEngine GLES2-AnchorCenter branch.
+This puzzle game created by using AndEngine GLES2-AnchorCenter branch.
 
 Originial project is http://www.raywenderlich.com/12065/how-to-create-a-simple-android-game
 
